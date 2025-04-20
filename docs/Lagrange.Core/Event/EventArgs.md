@@ -83,7 +83,7 @@
 | `MemberUin`  | uint  |            成员 Uin            |
 | `InvitorUin` | uint? | 邀请者 Uin (自己入群为 `null`) |
 
-## Bot 所在群新增成员事件 `GroupMemberDecreaseEvent`
+## Bot 所在群成员退群事件 `GroupMemberDecreaseEvent`
 
 |     字段      | 类型  |              描述              |
 | :-----------: | :---: | :----------------------------: |
